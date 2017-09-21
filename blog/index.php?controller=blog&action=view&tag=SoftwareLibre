@@ -1,0 +1,52 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+	<meta http-equiv="cleartype" content="on">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Blog del LABSOL - Lo más actual en cuanto a Software Libre - SoftwareLibre</title>
+<meta name="description" content="En este blog se publicarán los artículos y noticias más recientes del LABSOL">
+<meta name="generator" content="Nibbleblog">
+<link rel="canonical" href="http://localhost/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=SoftwareLibre">
+<link rel="alternate" type="application/atom+xml" title="ATOM Feed" href="/labsol/blog/feed.php">
+<link rel="stylesheet" type="text/css" href="/labsol/blog/themes/echo/css/style.css">
+<link rel="shortcut icon" href="/labsol/blog/themes/echo/css/img/favicon.ico" type="image/x-icon">
+</head>
+<body>
+	<header>
+	    <div class="plugin_box plugin_categories">
+                <ul>
+                    <li class="category">
+                        <a href="../"><strong>Volver al portal</strong></a>
+                    </li>
+                </ul>
+            </div>
+		<img src="/labsol/blog/themes/echo/css/img//logo.png">
+		<br/><br/>
+		<h1><a href="/labsol/blog/">Blog de noticias</a></h1>
+		<span class="slogan"></span>
+		<a id="button" href="javascript:void(0)"><img src="/labsol/blog/themes/echo/css/img//button.png"></a>
+	</header>
+
+	<section class="main">
+		<div class="content">
+			<article><h2 class="post-title"><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=7">Google Home, el nuevo asistente inteligente del hogar, llegará al mercado a fines de 2016</a></h2><span class="publish-date"><span class="month">dic</span> <span class="day">22</span><span class="year">2016</span></span><p><img src="/labsol/blog/content/public/upload/google-home-2_0_o.jpg" alt="undefined" /></p>
+<p>Google presentó hoy a Home, su altavoz inteligente destinado a asistir a los usuarios tanto en sus tareas hogareñas como en materia de entretenimiento, en un claro desafío a Amazon y su propio asistente virtual, Echo, que ya lleva casi dos años en el mercado.</p>
+<p>De acuerdo con lo señalado por Mario Queiroz, vicepresidente de gestión de producto de Google, en el marco de la conferencia I/O 2016, el sistema Google Home estará disponible para el público masivo a fines del presente año.</p>
+<p><ul class="tags"><li><b>Tags</b>:&nbsp;</li><li><a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Google">Google</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=IoT">IoT</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=SoftwareLibre">SoftwareLibre</a></li></ul><ul class="info"><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=7">Seguir leyendo</a></li><li><a target="_blank" href="https://twitter.com/share?url=http%3A%2F%2Flocalhost%2Flabsol%2Fblog%2Findex.php%3Fcontroller%3Dpost%26amp%3Baction%3Dview%26amp%3Bid_post%3D7">Tweet</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=7#comment_form">Comentarios (491)</a></li></ul></article><article><h2 class="post-title"><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=6">Jóvenes integrados a Laboratorio de Software Libre deben apoyar proyectos productivos: Haro</a></h2><span class="publish-date"><span class="month">dic</span> <span class="day">18</span><span class="year">2016</span></span><p><img src="/labsol/blog/content/public/upload/p10-la-jornada-zacatecas-aprovechan-internet-foto_0_o.jpg" alt="undefined" /></p>
+<p>Manuel Haro Márquez, coordinador del Laboratorio de Software Libre del Consejo Zacatecano de Ciencia, Tecnología e Innovación (Cozcyt), ofreció en la 53 Semana Nacional de Ciencia y Tecnología dedicada al tema del Cambio Climático, su conferencia Aprovechamiento Tecnológico del Internet de las Cosas en Proyectos Ambientales.</p>
+<p>Dijo en entrevista previa, que el Internet de las cosas es un concepto que engloba actualmente todo el quehacer tecnológico, pues involucra el manejo de redes de comunicación, seguridad y cómputo en la nube, entre otros elementos de una cadena de vinculación sin cuya integración no pueden desarrollarse proyectos.<ul class="tags"><li><b>Tags</b>:&nbsp;</li><li><a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=SoftwareLibre">SoftwareLibre</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Linux">Linux</a></li></ul><ul class="info"><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=6">Seguir leyendo</a></li><li><a target="_blank" href="https://twitter.com/share?url=http%3A%2F%2Flocalhost%2Flabsol%2Fblog%2Findex.php%3Fcontroller%3Dpost%26amp%3Baction%3Dview%26amp%3Bid_post%3D6">Tweet</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=6#comment_form">Comentarios (3)</a></li></ul></article><article><h2 class="post-title"><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=5">BlackArch: déjate seducir por el lado oscuro de Arch Linux</a></h2><span class="publish-date"><span class="month">dic</span> <span class="day">18</span><span class="year">2016</span></span><p><img src="/labsol/blog/content/public/upload/blackarch-linux_0_o.jpg" alt="undefined" /></p>
+<p>Muchos de los que llevamos en Linux un tiempo hemos oído hablar de la distribución BackTrack Linux, que hoy en día, después de sufrir ciertos cambios ha pasado a llamarse Kali Linux. Es una distribución basada en Debian que se centra en proporcionar ciertas herramientas para la auditoría de la seguridad informática. Actualmente, esta distribución es una de las más famosas para hacer este tipo de tareas desde una distribución Linux, pero no es ni mucho menos la única que existe.<ul class="tags"><li><b>Tags</b>:&nbsp;</li><li><a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Archlinux">Archlinux</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Linux">Linux</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Distros">Distros</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=SoftwareLibre">SoftwareLibre</a>, <a class="tag" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=GNU">GNU</a></li></ul><ul class="info"><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=5">Seguir leyendo</a></li><li><a target="_blank" href="https://twitter.com/share?url=http%3A%2F%2Flocalhost%2Flabsol%2Fblog%2Findex.php%3Fcontroller%3Dpost%26amp%3Baction%3Dview%26amp%3Bid_post%3D5">Tweet</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=5#comment_form">Comentarios (22)</a></li></ul></article><div class="pager"></div>			<footer>
+				<p><a href="/labsol/blog/feed.php">Atom</a></p>
+				<p>LABSOL 2016 </p>
+			</footer>
+		</div>
+
+		<aside id="sidebar">
+			<div class="plugin_box plugin_categories"><h3>Categorías</h3><ul><li class="category"><a href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;category=uncategorized">Sin categoría</a></li><li class="category"><a href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;category=software-libre">Software Libre</a></li><li class="category"><a href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;category=linux">Linux</a></li><li class="category"><a href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;category=intel">Intel</a></li></ul></div><div class="plugin_box plugin_tag_cloud"><h3>Palabras clave</h3><a class="level_13" style="font-size:13px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Archlinux">Archlinux</a><a class="level_13" style="font-size:13px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Distros">Distros</a><a class="level_13" style="font-size:13px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=GNU">GNU</a><a class="level_13" style="font-size:13px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Google">Google</a><a class="level_13" style="font-size:13px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=IoT">IoT</a><a class="level_14" style="font-size:14px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=Linux">Linux</a><a class="level_15" style="font-size:15px; margin-right: 5px; display: inline-block;" href="/labsol/blog/index.php?controller=blog&amp;action=view&amp;tag=SoftwareLibre">SoftwareLibre</a></div><div class="plugin_box plugin_latest_posts"><h3>Últimos Posts</h3><ul><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=7">Google Home, el nuevo asistente inteligente del hogar, llegará al mercado a fines de 2016</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=6">Jóvenes integrados a Laboratorio de Software Libre deben apoyar proyectos productivos: Haro</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=5">BlackArch: déjate seducir por el lado oscuro de Arch Linux</a></li><li><a href="/labsol/blog/index.php?controller=post&amp;action=view&amp;id_post=4">La democracia necesita a héroes como Snowden”</a></li></ul></div>		</aside>
+	</section>
+	<script src="/labsol/blog/admin/js/jquery/jquery.js"></script>
+<script src="/labsol/blog/themes/echo/js/script.js"></script>
+</body>
+</html>
